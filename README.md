@@ -4,17 +4,13 @@
 
 <div align="center"> 
 Graduando em Sistemas de Informação - UFBA 🧑‍💻 <br>
-</div>
 
 ##
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,python,sqlite&theme=dark)](https://skillicons.dev)
 ##
 
-<div>
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsllongo&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
-</div>
   
-<div> 
   <a href = "mailto:lucaslongor1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-longo1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
