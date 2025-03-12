@@ -1,7 +1,9 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=header"/>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9fb2e0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Lucas!;Bem-vindos+ao+meu+Github!+:%29)
 
-## Lucas Longo
-
+<div align="center"> 
+Graduando em Sistemas de Informação - UFBA 🧑‍💻 <br>
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,python,sqlite&theme=dark)](https://skillicons.dev)
   
   ##
@@ -11,3 +13,5 @@
   <a href="https://www.linkedin.com/in/lucas-longo1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>
