@@ -6,6 +6,7 @@
 Graduando em Sistemas de Informação - UFBA 🧑‍💻 <br>
 
 ##
+
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,python,sqlite&theme=dark)](https://skillicons.dev)
 
 <a href = "mailto:lucaslongor1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
