@@ -2,7 +2,7 @@
 
 ## Lucas Longo
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,pyhton,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,python,sqlite&theme=dark)](https://skillicons.dev)
   
   ##
  
